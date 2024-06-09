@@ -17,6 +17,11 @@ header {
     height: 80.7333px;
 }
 
+header .logo {
+    height: 32px;
+    margin-right: 10px;
+}
+
 header h1 {
     margin: 0;
     font-size: 2.5em;
